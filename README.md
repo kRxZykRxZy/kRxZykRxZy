@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm kRxZy</h1>
+<h1 align="center">Hi there 👋, I'm kRxZy_kRxZy</h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/77628969?v=4" width="150" alt="Profile Picture" style="border-radius: 50%;" />
@@ -22,15 +22,15 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kRxZy_kRxZy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kRxZykRxZy&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kRxZy_kRxZy&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kRxZykRxZy&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kRxZy_kRxZy&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kRxZykRxZy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
