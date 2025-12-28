@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm kRxZy_kRxZy</h1>
 
-![](https://komarev.com/ghpvc/?username=kRxZykRxZy&style=for-the-badge&color=dc143c)
+###![](https://komarev.com/ghpvc/?username=kRxZykRxZy&style=for-the-badge&color=dc143c)
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/192328467?v=4" width="150" alt="Profile Picture" style="border-radius: 50%;" />
